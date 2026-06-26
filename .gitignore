@@ -1,0 +1,29 @@
+# Simulation generated files
+work/
+sin/
+transcript
+*.wlf
+*.vcd
+*.log
+*.jou
+*.bak
+
+# Quartus generated files
+db/
+incremental_db/
+output_files/
+*.qpf
+*.qsf
+*.sof
+*.pof
+*.rpt
+*.summary
+*.done
+*.pin
+*.fit
+*.map
+*.sta
+
+# Editor temporary files
+*~
+*.swp
